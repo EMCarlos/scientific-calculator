@@ -10,6 +10,9 @@ Project done for The Odin Project course AND based in the classic [Casio fx-82MS
 - Multiplication
 - Division
 - Exponential
+- Delete
+- Clear
+- ANS
 
 ## Tech Stack
 
